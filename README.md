@@ -1,4 +1,4 @@
-# bounty-resourcepack
+# bounty-pack
 
 Resource Pack für das BountyPlugin (Minecraft 1.21.11, pack_format 94).
 
@@ -6,3 +6,5 @@ Resource Pack für das BountyPlugin (Minecraft 1.21.11, pack_format 94).
 - Download-URL und SHA-1 stehen in der `config.yml` des Plugins (`resource-pack.url` / `resource-pack.sha1`)
 
 Bei jeder Änderung am Pack ändert sich der SHA-1 – dann in der `config.yml` aktualisieren.
+
+Der Code und die Pack-Quellen liegen im privaten Repo `bounty-code`; hier liegt nur das fertige Pack (Releases).
